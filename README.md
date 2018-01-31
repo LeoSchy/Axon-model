@@ -1,5 +1,5 @@
 # Axon-model
-A dynamic Hodgkin–Huxley Giant squid axon model in Matlab.
+A dynamic Hodgkin–Huxley Giant squid axon model in Matlab. By Leonardo Schymansky and Marcelo Colominas.
 
 This is a project for the 3rd year Subject "Physiology & Biophysics" in the Bioengineering Career in the "Universidad de Entre Rios" in Argentina.
 
@@ -16,4 +16,4 @@ How to run the software
 
 
 
-Leonardo Schymansky.
+
