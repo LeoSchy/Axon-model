@@ -7,7 +7,6 @@ I worked in this project alongside Marcelo Colominas in 2008. He greatly contrib
 
 This is a simplified version of the Hudgkin and Huxley Giant Squid Axon model. It features real time parameter adjustments as well as a static response to any given stimuli within physiologically reasonable limits.
 
------------------------
 How to run the software
 -----------------------
 
