@@ -13,3 +13,7 @@ How to run the software
 1. Include every file in the same workspace.
 2. Compile menu.m
 3. The UI should be pretty self explanatory.
+
+
+
+Leonardo Schymansky.
